@@ -1,5 +1,7 @@
 # Grainshifter
 
+## Requires Max 8, Live 9/10
+
 Grainshifter is a granular looper that allows pitch and time to be modified independently of each other, with the ability to shuffle segments of audio and record live input. 
 
 Grainshifter divides audio clips into 16 segments, each with their own *shift* and *warp* settings. *Shift* allows for re-ordering of segments, leading to rhythmic sub-loops and creative rearrangement of pre-recorded audio. *Warp* is the playback speed of that segment, allowing you to speed up or slow down the audio by 2 or 4 times, without affecting the pitch.
