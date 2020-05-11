@@ -1,6 +1,6 @@
 # Grainshifter
 
-## Requires Max 8, Live 9/10
+### Requires Max 8, Live 9/10
 
 Grainshifter is a granular looper that allows pitch and time to be modified independently of each other, with the ability to shuffle segments of audio and record live input. 
 
